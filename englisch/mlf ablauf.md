@@ -1,0 +1,6 @@
+- im Aufenthaltsraum warten, bis Vorbereitungslehrer euch in den Vorbereitungsraum holt und euch die Augaben übergibt
+- alle Themen von Q3
+- Schreibmaterialien not forgetten
+- Räume siehe le Plan
+- Gruppe wird vom Fachlehrer
+- Zeit sichtbar
