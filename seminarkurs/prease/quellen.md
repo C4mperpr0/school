@@ -1,0 +1,28 @@
+# Bildquellen
+
+## 1
+https://youtu.be/ChSUvdU_Sbk
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fallthatsinteresting.com%2Ftimothy-dexter&psig=AOvVaw2FXcY-YuzT16kNuuXUvb20&ust=1642379967976000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDD4a6EtfUCFQAAAAAdAAAAABAD
+
+## 2
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Z3_Deutsches_Museum.JPG
+https://cdn.idealo.com/folder/Product/6628/1/6628198/s1_produktbild_max/raspberry-pi-4-model-b.jpg
+
+## 4
+
+https://www.freiepresse.de/erfahrungen/wp-content/uploads/sites/18/2021/12/bitcoin-die-kryptowaehrung.jpg
+https://fuchs-inc.de/wp-content/uploads/2021/07/solana-sol9611.jpg
+
+## 6
+https://www.google.com/search?q=trading&client=ubuntu&hs=OmM&channel=fs&sxsrf=AOaemvIFVrgmtDaHqdspGhplhBZeKJBrXg:1642311617967&ei=wa_jYc3AOrPC8gKC3brIBg&start=10&sa=N&ved=2ahUKEwiNpeXEx7X1AhUzoVwKHYKuDmkQ8tMDegQIARA_&biw=1920&bih=920&dpr=1
+
+## 7
+https://upload.wikimedia.org/wikipedia/commons/f/f9/MACDpicwiki.gif
+
+## 8
+https://de.finance.yahoo.com/chart/GC%3DF#eyJpbnRlcnZhbCI6ImRheSIsInBlcmlvZGljaXR5IjoxLCJ0aW1lVW5pdCI6bnVsbCwiY2FuZGxlV2lkdGgiOjgsImZsaXBwZWQiOmZhbHNlLCJ2b2x1bWVVbmRlcmxheSI6dHJ1ZSwiYWRqIjp0cnVlLCJjcm9zc2hhaXIiOnRydWUsImNoYXJ0VHlwZSI6Im1vdW50YWluIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwic3R1ZGllcyI6eyLigIx2b2wgdW5kcuKAjCI6eyJ0eXBlIjoidm9sIHVuZHIiLCJpbnB1dHMiOnsiaWQiOiLigIx2b2wgdW5kcuKAjCIsImRpc3BsYXkiOiLigIx2b2wgdW5kcuKAjCJ9LCJvdXRwdXRzIjp7IlVwIFZvbHVtZSI6InJnYmEoMjAwLCAyNDAsIDIyMCwgMC44KSIsIkRvd24gVm9sdW1lIjoicmdiYSgyNTUsIDQ4LCA2MCwgMC44KSJ9LCJwYW5lbCI6ImNoYXJ0IiwicGFyYW1ldGVycyI6eyJ3aWR0aEZhY3RvciI6MC40NSwiY2hhcnROYW1lIjoiY2hhcnQifX19LCJwYW5lbHMiOnsiY2hhcnQiOnsicGVyY2VudCI6MSwiZGlzcGxheSI6IkdDPUYiLCJjaGFydE5hbWUiOiJjaGFydCIsImluZGV4IjowLCJ5QXhpcyI6eyJuYW1lIjoiY2hhcnQiLCJwb3NpdGlvbiI6bnVsbH0sInlheGlzTEhTIjpbXSwieWF4aXNSSFMiOlsiY2hhcnQiLCLigIx2b2wgdW5kcuKAjCJdfX0sInNldFNwYW4iOnt9LCJsaW5lV2lkdGgiOjIsInN0cmlwZWRCYWNrZ3JvdW5kIjp0cnVlLCJldmVudHMiOnRydWUsImNvbG9yIjoiIzAwODFmMiIsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50TWFwIjp7ImNvcnBvcmF0ZSI6eyJkaXZzIjp0cnVlLCJzcGxpdHMiOnRydWV9LCJzaWdEZXYiOnt9fSwic3ltYm9scyI6W3sic3ltYm9sIjoiR0M9RiIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJHQz1GIiwicXVvdGVUeXBlIjoiRlVUVVJFIiwiZXhjaGFuZ2VUaW1lWm9uZSI6IkFtZXJpY2EvTmV3X1lvcmsifSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoiZGF5IiwidGltZVVuaXQiOm51bGwsInNldFNwYW4iOnt9fV19
+
+## 11
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ulyces.co%2Fwp-content%2Fuploads%2F2020%2F05%2FEYPVWRREYRDQTNXJPQIEXDQ4JM-scaled-1600x893.jpg&f=1&nofb=1
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimmunodeficiency.ca%2Fwp-content%2Fuploads%2F2020%2F07%2FUntitled-design-2.png&f=1&nofb=1
