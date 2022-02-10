@@ -16,8 +16,8 @@
 
 1. Obviously more people are interested in sensational information than in *aufklärende Berichterstattung*
 2. I am convinced that an educated audience prefers *ausgewogen* fact based deeply investigated news.
-3. *Eigentlich* the *verfassung* guarantees the freedom of speed, but some politicians think that a sensorship should be etablated, which publishers and broadcasters disagree with strictly.
-4. To be honest paparazzi are ethe worst kind of journalists since they *inkaufnehmen* spreading fake news and disrespecting privacy.
+3. *Eigentlich* the *verfassung* guarantees the freedom of speech, but some politicians think that a sensorship should be etablated, which publishers and broadcasters disagree with strictly.
+4. To be honest paparazzi are the worst kind of journalists since they *inkaufnehmen* spreading fake news and disrespecting privacy.
 5. Do you agree with me when I claim that exciting shows are only broadcasted at night while and in contrast to that only silly soap operas are broadcasted at prime time.
 6. The public has to be forced to *hinterfragen* sources of information and always be untrusting because it can always happen that they are played on and that information are hidden on purpose
 7. The host asked which target audience should whatch the new news program

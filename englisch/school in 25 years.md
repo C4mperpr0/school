@@ -1,0 +1,3 @@
+# Technisierung
+Deutschland hat immernoch kein Geld
+Es war schon alles gleich vor 25 Jahren und es wird auch noch so sein in weiteren 25 Jahren, es ist Deutschland Leute, was habt ihr erwartet...

@@ -10,3 +10,12 @@ Erster Satz Klaviersonate in Cis-Moll - Mondschein Sonate, ich tippe Beathoven w
 
 Radetzki Marsch - Johann Strauß (Vater) - Romantik (Uraufführung 1848)
 
+Für Elise - Beethoven - Wiener Klassik
+
+Walkürenritt - Richard Wagner (1813 - 1883) - Romantik
+
+Camina Burana - Oh Fortuna - Carl Orff (Moderne Musik)
+
+Freude schöner Götterfunken - 9. Synfonie Beethoven
+
+Tedeum - Marc-Antoine Charpentier (Schalentier) (ka wie man dit schreibt)
