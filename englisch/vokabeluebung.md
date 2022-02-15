@@ -10,7 +10,6 @@
 
 2. fund somebody - to finance
 3. empower somebody
-
 4. prime times
 5. file sharing -> tcp / udp / socket / websocket / http / ethernet / bluetooth / https
 6. response
