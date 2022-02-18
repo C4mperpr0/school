@@ -19,3 +19,15 @@ Camina Burana - Oh Fortuna - Carl Orff (Moderne Musik)
 Freude schöner Götterfunken - 9. Synfonie Beethoven
 
 Tedeum - Marc-Antoine Charpentier (Schalentier) (ka wie man dit schreibt)
+
+Kanon in D Dur - Johann Pachelbel - Barock
+
+Preludium in C Dur aus dem wohl temperierten Klavier - Johann Sebastian Bach
+
+Träumerei - Kinderszenen - Robert Schuman - Romantik
+
+Triumphmarsch - Aida - Giuseppe Verdi - Romantik
+
+Habanera - Carmen Suite Nr. 2 - Georges Bizet - Romantik
+
+Tritsch-Tratsch-Polka - Johann Strauß (Sohn) - Romantik
