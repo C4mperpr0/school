@@ -31,3 +31,17 @@ Triumphmarsch - Aida - Giuseppe Verdi - Romantik
 Habanera - Carmen Suite Nr. 2 - Georges Bizet - Romantik
 
 Tritsch-Tratsch-Polka - Johann Strauß (Sohn) - Romantik
+
+2 Satz - Synfonie mit dem Paukenschlag - Joseph Hayden - Wiener Klassik
+
+Ouvertüre Schwanensee - Pjotr Iljitsch Tschaikowski - Romantik
+
+Trois Gymnopédie - Gymnopédie No. 1 - Erik Satie - Romantik
+
+1 Satz Allegro Frühling - 4 Jahreszeiten - Antonio Vivaldi - Barock
+
+der Schwan - 13. Satz der Karneval der Tiere - Camille Saint-Saëns - Romantik
+
+Promenade - Bilder eine Ausstellung - Modest Petrowitsch Mussorgski
+
+sverige suite  bassed bl°abärskaka. Jag talar svenska och Niklas talar inte svenska.
