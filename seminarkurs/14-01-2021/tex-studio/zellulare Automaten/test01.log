@@ -1,0 +1,228 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.13)  20 JAN 2021 01:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**test01.tex
+(./test01.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count185
+\U@D=\dimen139
+\l@babelnohyphens=\language86
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count186
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.
+ldf
+Language: ngerman 2020/07/21 v2.12 German support for babel (post-1996 orthogra
+phy)
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb
+.ldf
+Language: ngermanb 2020/07/21 v2.12 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 121.
+)))
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count187
+\l__pdf_internal_box=\box47
+) (./test01.aux)
+\openout1 = `test01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen142
+\scratchbox=\box48
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen143
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks17
+)
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/Programme/TexLive/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+ [1
+
+{d:/Programme/TexLive/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+}] [2]
+<./images//commonStillConfigurations.png, id=14, 1505.625pt x 394.47375pt>
+File: ./images//commonStillConfigurations.png Graphic file (type png)
+<use ./images//commonStillConfigurations.png>
+Package pdftex.def Info: ./images//commonStillConfigurations.png  used on input
+ line 33.
+(pdftex.def)             Requested size: 390.0pt x 102.18153pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+ []
+
+[3] [4 <./images//commonStillConfigurations.png>] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 45--56
+
+ []
+
+
+Overfull \hbox (5.80093pt too wide) in paragraph at lines 45--56
+\OT1/cmr/m/n/12 https://www.youtube.com/playlist?list=PLvA[]gXIhzZNXdAyEGJaSA2X
+15-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--56
+
+ []
+
+
+Overfull \hbox (117.79999pt too wide) in paragraph at lines 45--56
+\OT1/cmr/m/n/12 https://de.wikipedia.org/wiki/Zellul%C3%A4rer[]Automat#Wolframs
+[]eindimensionales[]Universum 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--56
+
+ []
+
+
+Overfull \hbox (9.0306pt too wide) in paragraph at lines 45--56
+\OT1/cmr/m/n/12 Wikipedia (27.07.2020), Con-way's Spiel des Le-bens. Letz-ter Z
+u-griff: 17.01.2021,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--56
+
+ []
+
+[6]
+Overfull \hbox (2.37648pt too wide) in paragraph at lines 60--61
+\OT1/cmr/m/n/12 Nach lan-gem re-cher-chie-ren ha-be ich im-mer noch nicht her-a
+us-ge-fun-den, warum
+ []
+
+[7] (./test01.aux) ) 
+Here is how much of TeX's memory you used:
+ 2052 strings out of 479304
+ 31032 string characters out of 5862309
+ 328206 words of memory out of 5000000
+ 19256 multiletter control sequences out of 15000+600000
+ 407377 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,8n,74p,979b,142s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/Programme/TexLive/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><d:/Programme/TexLive/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb><d:/Programme/TexLive/texlive/2020/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/Programme/TexLive/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/Programme/TexLive/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on test01.pdf (7 pages, 574273 bytes).
+PDF statistics:
+ 51 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
