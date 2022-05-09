@@ -60,7 +60,28 @@
 ### Einordnung wesentlicher hist. Fakten, Wissen, Zusammenhänge in den OWK (siehe auch 12/2 !)
 
 # 12/2: Ereignis und Struktur am Bsp. der doppelten deutschen Geschichte (Längsschnitt dtsch. Geschichte 1945 – 89/90)
+
 ## Ära Adenauer (4 Ws)
+- sichert die Freiheit durch Verankerung im westlichen Bündnis
+- verzichtet vorerst auf Wiedervereinigung
+- führt zu einem erstaunlichen Wirtschaftsaufschwung
+### Westpolitik
+- 1952 Deutschlandvertrag: Aufhebung des Besatzungsstatus
+- 1955 NATO-Mitgliedschaft der Bundesrepublik
+- 1957 Gründung der Europäischen Wirtschaftsgemeinschaft (EWG) (Fr, It, De, Benelux)
+- 1963 deutsch-französischer Freundschaftsvertrag: Aussöhnung Deutschlands mit Frankreich
+### Innenpolitik
+- Wiederbewaffnung: Gründung der Bundeswehr
+- 1956 Einführung der allgemeinen Wehrpflicht
+- soziale Marktwirtschaft (Ludwig Erhard): Verbindung von wirtschaftlicher Freiheit und sozialer Gerechtigkeit
+- "Wirtschaftswunder": Produktionsanstieg, Vollbeschäftigung, Preisstabilität, zunehmender Wohlstand
+### Ostpolitik
+- 1952 Angebot Stalins: Friedensvertrag, Wiedervereinigung beider deutscher Staaten
+- Reaktion der Westmächte und Adenauers: Forderung nach freien Wahlen in der DDR, Misstrauen gegenüber Stalin
+- 1955 Besuch Adenauers in der UdSSR: Aufnahme diplomatischer Beziehungen, Rückkehr von 10.000 gefangenen
+
+
+
 ## innenpolitische Konflikte- gesellschaftspolitische Veränderungen in der BRD zur Zeit der Großen Koalition(1966-69)
 ## Annäherung durch Wandel – die sozial – liberale Koalition in der BRD (1969–74)
 ## die neue Ostpolitik /KSZE
@@ -68,3 +89,24 @@
 ## der „ real – existierende Sozialismus“
 ## Folgen von Glasnost und Perestroika
 ## Auflösung der DDR 1989/90
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
