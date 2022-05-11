@@ -85,7 +85,56 @@
 ## innenpolitische Konflikte- gesellschaftspolitische Veränderungen in der BRD zur Zeit der Großen Koalition(1966-69)
 ## Annäherung durch Wandel – die sozial – liberale Koalition in der BRD (1969–74)
 ## die neue Ostpolitik /KSZE
-## DDR unter Honecker 1971–85
+
+
+## DDR unter Honecker 1971–85 - die Ära Honecker
+### Machtübernahme
+- 1958 Vollmitglied des Politbüros
+- 3. Mai 1971 Honecker wird erster Sekretär des Zentralkomitees der SED
+- Ulbricht wird zum Vorsitzenden der SED gewählt
+- Wirtschaftspolitischer Richtungswechsel: Rückkehr zur Planwirtschaft
+- 1976 Übernahme der Ämter des Staatsvorsitzenden und des Generalsekretärs
+- -> Staats- und Parteichef der DDR
+### Außenpolitik
+- Anerkennung der DDR als vielschichtiger, politischer, staats- und völkerrechtlicher Komplex
+- Bemühungen für stärkere Präsenz der DDR international (zahlreiche Staatsbesuche: Kuba 1974/1980, Japan 1981)
+- 1973 Beitritt der DDR in UNO
+- 1975 Unterzeichnung der KSZE-Schlussakte in Helsinki
+### Deutschlandpolitik
+- 1971 Transitabkommen
+- 1972 Grundlagenvertrag
+- Vorsichtige Annäherung an die BRD -> keine eindeutige Haltung zur Neuen Ostpolitik Brandts
+- Höhepunkte: Treffen mit Bundeskanzler Schmidt (1983) und Kohl (1987)
+- Politischer Zick-Zack-Kurs -> ständige Schwankungen zwischen "harter" und "weicher" Politik
+- 1983 schlechte Wirtschaftslage der DDR -> Milliardenkredite aus BRD
+### Kultur- und Gesellschaftspolitik
+- Sozialer Optimismus: Hoffnung auf Lockerung bei junger Generation
+- Empfang westlicher Radio- und Fernsehsender wurde entkriminalisiert -> Zeitungen und Zeitschriften jedoch nicht
+- Ab 1970 Einrichtung spezieller Rock- und Popmagazine, Hitparaden und Wunschsendungen von DDR-Medien
+- Grenzen kulturpolitischer Öffnung wurden deutlich bei Ausbürgerung von Wolf Biermann (1976)
+### Einheits- und Wirtschaftspolitik
+- 8. Parteitag SED: Beschluss der "Einheits- und Wirtschaftspolitik"
+- Oberstes Ziel der neuen Wirtschaftspolitik: Glück des Volkes
+- Steigerung der Produktivität durch steigende Löhne und wachsenden Lebensstandard -> soll für stabiles Wirtschaftswachstum sorgen
+- Aufgeben der Förderung von Forschung und Entwicklung in Technologiebereichen -> mehr Budget für Sozialprodukte, Lösung von Wohnungsmangel im Vordergrund (Plattenbauten "sozialistische Stadtneugründung")
+- Trotz Zunahme wirtschaftlicher Schwierigkeiten: Festhalten Honeckers an Sozialprogramm
+- SED beschloss auf 9. Parteitag 1976 weitere Erhöhung der Löhne und Renten sowie Arbeitszeitverkürzungen und Verlängerung von Erholungsurlaub
+- SED verteilte Wohltaten schneller als Wirtschaft arbeiten konnte
+- da mehr Import als Export: Zunahme Handelsdefizit 1972/73 gegenüber westlichen Industriestaaten -> höhere Verschuldung
+- Zwischen 1970 - 1989 steigen Schulden von 2 auf 49 Mrd. West-Mark
+- Bevölkerung bis zum Schluss Leben in Wohlfartsstaat sugeriert
+### Zusammenbruch
+- Zusammenbruch des SED-Regimes als Folge einer Entwicklung (wirtschaftlicher Verfall, Massenproteste, Ost-West-Konfrontation)
+- Ende 1980er steigende Anzahl von Ausreiseanträgen
+- 18. Oktober 1989 SED-Politbüro zwingt Honecker zum Rücktritt
+- DDR-Bürger forderten sofortigen und deutschlichen Bruch der bisherigen Politik
+- Herbst 1989: Rasanter Zerfallsprozess der SED -> bis Januar 1990 pber 900.000 Mitglieder verlassen die Partei
+
+
+
+
+
+
 ## der „ real – existierende Sozialismus“
 ## Folgen von Glasnost und Perestroika
 ## Auflösung der DDR 1989/90
